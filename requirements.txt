@@ -1,0 +1,6 @@
+argh
+colorama
+requests
+termcolor
+
+

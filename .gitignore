@@ -3,6 +3,8 @@
 out
 gen
 
+_version.py
+
 ### Python template
 # Byte-compiled / optimized / DLL files
 __pycache__/
